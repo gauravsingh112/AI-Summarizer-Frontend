@@ -1,0 +1,19 @@
+.logo-icon{
+    display: flex;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border-radius: 6px;
+    
+
+    
+    
+
+}
+
+.logo-img{
+    display: flex;
+    padding: 7px;
+    
+}
+
